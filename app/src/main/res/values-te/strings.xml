@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="enter_user_name">యూసర్ పేరు ఎంటర్ చేయండి</string>
+    <string name="enter_password">"పాస్వర్డ్ ఎంటర్ చేయండి "</string>
+    <string name="login">"లాగిన్ "</string>
+    <string name="new_user_click_here">కొత్త యూసర్ , ఇక్కడ  క్లిక్ చేయండి !</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="help">Help</string>
+    <string name="welcome_to_quizapp" translatable="false">Welcome To QuizAPP</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="login">login</string>
+    <string name="new_user_click_here">New User? Click Here!</string>
+    <string name="register_for_quizapp">Register for QuizAPP</string>
+    <string name="username">UserName</string>
+    <string name="enter_password">Enter password</string>
+    <string name="gender">Gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_programming_language">Select Programming Language</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="register">Register</string>
+    <string name="settings">Settings</string>
+    <string-array name="list">
+        <item></item>
+        <item>C</item>
+        <item>Java</item>
+        <item>Android</item>
+        <item>CPP</item>
+    </string-array>
+</resources>
